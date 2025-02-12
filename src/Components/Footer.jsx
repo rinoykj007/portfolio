@@ -13,7 +13,7 @@ function Footer() {
           RKJ
         </a>{" "}
         with
-        <span className="text-gradient font-medium"> Love</span> &
+        <span className="text-gradient font-medium"> Love& Travel</span> &
         <span className="text-gradient font-medium"> Coffee</span>
       </p>
     </footer>
